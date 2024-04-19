@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26789" started-at="2021-09-04T07:19:05Z" finished-at="2021-09-04T07:19:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26789" started-at="2021-09-04T07:19:05Z" finished-at="2021-09-04T07:19:31Z">
+      <class name="seleniumCon.BrowserLaunch">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:seleniumCon.BrowserLaunch@1952a2d]" name="browserLaunch" is-config="true" duration-ms="11981" started-at="2021-09-04T07:19:05Z" finished-at="2021-09-04T07:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:seleniumCon.BrowserLaunch@1952a2d]" name="launchBrowser" duration-ms="13882" started-at="2021-09-04T07:19:17Z" finished-at="2021-09-04T07:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:seleniumCon.BrowserLaunch@1952a2d]" name="quitDriver" is-config="true" duration-ms="813" started-at="2021-09-04T07:19:31Z" finished-at="2021-09-04T07:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- seleniumCon.BrowserLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
